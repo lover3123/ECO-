@@ -1,7 +1,6 @@
 
   # EcoFinds App UI Design
-
-  This is a code bundle for EcoFinds App UI Design. The original project is available at https://www.figma.com/design/cjqYkblz2iTGtuTLOfH7sE/EcoFinds-App-UI-Design.
+For environment
 
   ## Running the code
 
