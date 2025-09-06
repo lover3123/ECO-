@@ -76,7 +76,7 @@ Designed to be functional & demo-ready in 11 hrs
 
 Prioritizes sustainability + usability (judges’ key focus areas)
 
-Easily extensible with real DB + image storage (Cloudinary/S3)
+
 
 5–7 min demo will cover buy flow, sell flow, profile, and cart
 
@@ -86,7 +86,7 @@ Easily extensible with real DB + image storage (Cloudinary/S3)
 
 👨‍💻 Team
 
-[Name 1] – Prince Sharma
+[Name 1] – Prince Chaudyary
 
 [Name 2] – Sumit Thakurathi
 
