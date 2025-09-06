@@ -47,7 +47,7 @@ Figma for UI/UX prototyping
 📦 Installation
 # Clone the repo
 git clone https://github.com/lover3123/ECO-.git
-cd ecofinds
+
 
 # Install frontend deps
 npm install
